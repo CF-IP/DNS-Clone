@@ -15,6 +15,8 @@ const fallbackTarget = [115, 103, 46, 54, 54, 53, 57, 54, 54, 46, 120, 121, 122]
 // 兜底proxyip 数组格式 [115, 103, 46, 54, 54, 53, 57, 54, 54, 46, 120, 121, 122]
 
 const priorityEndpoints = [
+	'HK1 www.akzai.store',
+	'HK2 hk.pyip.xx.kg',
 	'TG：@Crow187 www.wto.org',
 	'TG：@Crow187 mfa.gov.ua',
 	'TG：@Crow187 openai.com'
