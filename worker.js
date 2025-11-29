@@ -1,5 +1,5 @@
 const showSubscriptionButton = false;  //true 开启
-const subscriptionPath = 'dudu';  //dudu 订阅
+const subscriptionPath = 'wuya';  //dudu 订阅
 
 const accessKey = 'd342d11e-d424-4583-b36e-524ab1f0afa4'
 // 明文  'd342d11e-d424-4583-b36e-524ab1f0afa4'
